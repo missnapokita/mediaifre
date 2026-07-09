@@ -1,0 +1,12 @@
+{
+  "name": "mediafire-vercel-direct-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vercel API for generating MediaFire direct download links",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
